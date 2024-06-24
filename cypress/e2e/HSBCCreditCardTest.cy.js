@@ -1,4 +1,4 @@
-describe('ATM Locator test scenarios', () => {
+describe('Credit Card test scenarios', () => {
 
     beforeEach(() => {
         cy.visit('https://www.hsbc.co.in/');
